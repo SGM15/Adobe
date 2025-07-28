@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends."
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Books and Entertainment:",
+      "importance_rank": 1,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Portable Laundry Kit:",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "importance_rank": 3,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Language",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 5,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "importance_rank": 6,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Best Time to Visit",
+      "importance_rank": 7,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Additional Tips:",
+      "importance_rank": 8,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Promenade des Anglais",
+      "importance_rank": 9,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Transportation",
+      "importance_rank": 10,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "travel. \u2022",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "be handy for longer trips. \u2022",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "joining a guided tour to avoid drinking and driving.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Learning a few basic French phrases can enhance your travel experience.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Packing for a trip to the South of France involves considering the season, planned activities, and the needs of both adults and children. By following this comprehensive guide and incorporating the tips and tricks provided, you'll be well-prepared for a comfortable and enjoyable trip. Remember to pack light, versatile clothing, and essential items to make the most of your travel experience.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "using public transportation to explore cities efficiently.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "to June) and fall (September to October) when the weather is pleasant, and the tourist crowds are smaller.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Pack energy bars or snacks for long hikes.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "perfect for a leisurely stroll along the coast. It offers stunning views of the Mediterranean and is lined with cafes and hotels.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Renting a car is also a great option for exploring the countryside and smaller towns.",
+      "page_number": 2
+    }
+  ]
+}
